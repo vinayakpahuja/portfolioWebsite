@@ -1,7 +1,7 @@
 .hero-image {
-  background-image: url("/src/assets/images/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg");
+  background-image: url("/assets/images/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg");
   background-repeat: no-repeat;
-  height: 1000px;
+  height: 100vh;
 
   background-attachment: fixed;
   background-position: center;

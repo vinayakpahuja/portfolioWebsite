@@ -1,0 +1,19 @@
+.about {
+  left: 40px;
+  text-align: center;
+  font-size: 65px;
+}
+.about-font{
+  font-family: Montserrat;
+  font-size: 22px;
+}
+.about-background{
+  padding: 30px;
+  height: 100%;
+  background-color: whitesmoke;
+}
+.about-img {
+  height: 600px;
+  width: 725px;
+  background-blend-mode:darken;
+}

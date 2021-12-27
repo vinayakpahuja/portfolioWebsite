@@ -1,3 +1,12 @@
-<p>
-  mymodalcomponent works!
-</p>
+<div class="modal-box">
+  <h1 style="font-family: 'Apple Braille'; font-size: 60px; color: black;text-align: center">{{title}}</h1>
+  <p>{{description}}</p>
+  <h3>Contribution-: </h3>
+  <ul *ngFor="let c of contribution">
+    <li>{{c}}</li>
+  </ul>
+  <h3>Technologies Used-: </h3>
+  <ul *ngFor="let c of technologiesUsed">
+    <li>{{c}}</li>
+  </ul>
+</div>

@@ -1,0 +1,20 @@
+.parallax{
+  background-image: url("/assets/images/nubelson-fernandes--Xqckh_XVU4-unsplash.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.resume-border{
+  width: auto;
+  height: auto;
+  margin: auto;
+  overflow: scroll;
+  padding: 2px 0px 0px 0px;
+  border: 3px solid #ccc;
+}
