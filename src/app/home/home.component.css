@@ -9,9 +9,11 @@
 }
 
 .wrapper {
-  margin-left: 75px;
-  height: 100vh;
-  left: 200px;
+  padding-left: 75px;
+  height: 10vmin;
+}
+.fa-3x {
+  font-size: 6vmin;
 }
 
 .wrapper i {

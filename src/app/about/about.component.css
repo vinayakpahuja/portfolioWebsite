@@ -15,5 +15,6 @@
 .about-img {
   height: 600px;
   width: 725px;
+  border: 9px inset;
   background-blend-mode:darken;
 }

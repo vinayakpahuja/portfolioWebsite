@@ -1,10 +1,10 @@
 .modal-box {
-  height: 600px;
-  width: 600px;
+  height: 60vh;
+  width: 60vh;
   border: 9px inset;
 
   vertical-align: center;
-  overflow: auto;
+  overflow: scroll;
   padding: 10px;
   background-color: white
 }
