@@ -18,7 +18,16 @@ export class ContactComponent implements OnInit {
   }
 
   submitDetails() {
-    alert('Details saved successfully');
+    console.log(this.contact.name);
+    console.log(this.contact.email);
+
+    console.log(this.contact.subject);
+
+    if (!this.contact.name || !this.contact.email || !this.contact.subject) {
+      alert('Please enter required fields');
+    } else {
+      alert('Details saved successfully');
+    }
     this.contact = new Contact();
   }
 
