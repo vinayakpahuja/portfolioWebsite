@@ -34,7 +34,7 @@ export class ProjectsComponent implements OnInit {
     this.projects = [
       {
         title: 'Cloud Data Center',
-        image: 'assets/images/CloudDataPipeline.png',
+        image: 'assets/images/CloudDataPipeline.webp',
         // tslint:disable-next-line:max-line-length
         description: 'Created a complete serverless pipeline to capture, monitor and visualise millions of data which got updated every instant with 0% loss in AWS cloud infrastructure.',
         contribution: ['Developed whole pipeline single handedly for which was awarded by Evive Extra Miller Award.',
@@ -46,7 +46,7 @@ export class ProjectsComponent implements OnInit {
       },
       {
         title: 'Tag Engine',
-        image: 'assets/images/TagEngine.png',
+        image: 'assets/images/TagEngine.webp',
         description: 'Segment the Section of Users to group into certain criteria by using tags driven by rules.',
         contribution: ['Introduced folksonomy to provide automated benefit tags driven by rules.',
           'Connects with multiple micro services to support and provide for various products.',
@@ -58,7 +58,7 @@ export class ProjectsComponent implements OnInit {
       },
       {
         title: 'Command Center',
-        image: 'assets/images/MyEvive.png',
+        image: 'assets/images/MyEvive.webp',
         // tslint:disable-next-line:max-line-length
         description: 'A single onboarding platform including vast products, ingestions and customizations which enables vendors and clients to initiate and continue an easy engagement.',
         // tslint:disable-next-line:max-line-length
@@ -70,7 +70,7 @@ export class ProjectsComponent implements OnInit {
       },
       {
         title: 'FalconX',
-        image: 'assets/images/FalconX.png',
+        image: 'assets/images/FalconX.webp',
         // tslint:disable-next-line:max-line-length
         description: 'Part of a team who created a Fraud detection tool which contributes to the 40% revenue of FICO. With suspicious transactions detected by BI models we can judge transactions through the behavior of any individual.',
         contribution: ['Contributed in development of a microservice named gateway-service by creating backend and frontend apis.',
@@ -80,7 +80,7 @@ export class ProjectsComponent implements OnInit {
       },
       {
         title: 'Hostel Refund Policy',
-        image: 'assets/images/Hostel.png',
+        image: 'assets/images/Hostel.webp',
         // tslint:disable-next-line:max-line-length
         description: 'In Hostels, students need to give advance mess fees for a semester . If on any particular day if they miss the meal or meal quality is not good , they are not getting reimbursed for that meal .',
         contribution: ['Won the Inter Batch Project Competition and assured the implementation of the system.',
