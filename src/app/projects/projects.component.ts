@@ -79,7 +79,7 @@ export class ProjectsComponent implements OnInit {
         technologiesUsed: ['Java8', 'MongoDB', 'Angular 6', 'Typescript.']
       },
       {
-        title: 'Hostel Refund Policy',
+        title: 'Hostel Refund Management',
         image: 'assets/images/Hostel.webp',
         // tslint:disable-next-line:max-line-length
         description: 'In Hostels, students need to give advance mess fees for a semester . If on any particular day if they miss the meal or meal quality is not good , they are not getting reimbursed for that meal .',

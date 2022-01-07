@@ -13,6 +13,8 @@
 .cards-wrapper .card {
   width: 600px;
   display: grid;
+  border: 9px inset;
+  background-blend-mode:darken;
   padding-top: 15px;
   padding-left: 15px;
   place-content: safe;
